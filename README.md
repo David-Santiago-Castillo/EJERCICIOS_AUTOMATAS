@@ -1,4 +1,4 @@
-## Activity: Languages and Finite Automata 
+
 
 This repository contains the Python implementation of several exercises related to the theory of formal languages and automata.The project covers the construction and simulation of Deterministic Finite Automata (DFA), Finite Automata (FA), and Pushdown Automata (PDA) to recognize different languages. 
 
@@ -27,6 +27,3 @@ Each problem is detailed below:
 
 ### **Team Members**
 
-* Julian Esteban Ballesteros Ortiz
-* David Santiago Castillo Molano 
-* Juan Diego Walteros Cortes 
