@@ -1,4 +1,3 @@
-Of course. Here is the English translation of your `README.md` file.
 
 ***
 
